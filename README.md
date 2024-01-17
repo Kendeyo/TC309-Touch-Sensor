@@ -1,2 +1,6 @@
 # TC309-Touch-Sensor
-A repository of with the TC309 Touch Sensor by Nutech Semiconductor
+A repository of working with the TC309 Touch Sensor by Nutech Semiconductor with Arduino
+
+It is an 12C touch sensor and has 2 bytes of OUTPUT data memory. 
+The two bytes correspond to the 2 sides of the touch sensor respectively
+and outputs a value between 0-255.
